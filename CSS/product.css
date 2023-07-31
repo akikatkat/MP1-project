@@ -1,0 +1,31 @@
+ /* ***************************************************NAVBAR SECTION**************************************************  */
+
+
+ .navbar ul li :hover {
+  background-color: #2a8d5f;;
+  border-radius: 3px;
+  padding: 2px;
+}
+
+
+ /* ***************************************************PRODUCT SECTION**************************************************  */
+
+
+  .text-shadow-1 { text-shadow: 0 .125rem .25rem rgba(0, 0, 0, .25); }
+  .text-shadow-2 { text-shadow: 0 .25rem .5rem rgba(0, 0, 0, .25); }
+  .text-shadow-3 { text-shadow: 0 .5rem 1.5rem rgba(0, 0, 0, .25); }
+   
+  .card-cover {
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    height: 100px;;
+  }
+  
+  /* **************************************************FOOTER SECTION**************************************************  */
+
+.Footer li :hover {
+  background-color: #85d18f;
+  border-radius: 3px;
+  padding: 2px;
+}
